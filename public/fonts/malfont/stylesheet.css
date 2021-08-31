@@ -1,0 +1,34 @@
+
+
+@font-face {
+    font-family: 'ml_semibold';
+    src: url('baloochettan2-semibold-webfont.woff2') format('woff2'),
+         url('baloochettan2-semibold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ml_regular';
+    src: url('baloochettan2-regular-webfont.woff2') format('woff2'),
+         url('baloochettan2-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ml_medium';
+    src: url('baloochettan2-medium-webfont.woff2') format('woff2'),
+         url('baloochettan2-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}

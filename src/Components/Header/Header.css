@@ -1,0 +1,12 @@
+.topmenu__cartqty{background-color: green;
+padding: 0px 5px;
+border-radius: 50%;
+color: white;
+font-size: xx-small;
+position: absolute;
+top: 20px;
+}
+.topmenu__carttotal{
+    font-size: small;
+    color: green;
+}
